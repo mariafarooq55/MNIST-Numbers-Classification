@@ -1,0 +1,6 @@
+streamlit>=1.53.0
+streamlit-drawable-canvas>=0.10.0
+numpy
+pillow
+joblib
+scikit-learn
