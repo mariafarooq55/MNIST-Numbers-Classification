@@ -14,7 +14,6 @@ A Streamlit web app that recognizes handwritten digits from 0 to 9 using a pre-t
 - `app.py` — Streamlit application
 - `mnist_model.pkl` — trained model used for inference
 - `requirements.txt` — Python dependencies
-- `Lab 3 - MNIST Digit Recognition (Colab).ipynb` — notebook used for training and experimentation
 
 ## Requirements
 
